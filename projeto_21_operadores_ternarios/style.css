@@ -1,0 +1,24 @@
+body {
+    background-color: aliceblue;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+#age-input {
+    width: 100px;
+    margin-top: 10px;
+}
+
+#check-button {
+    margin-top: 10px;
+}

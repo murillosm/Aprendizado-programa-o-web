@@ -1,0 +1,31 @@
+body {
+    background-color: aliceblue;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+button {
+    background-color: greenyellow;
+    font-family: Arial, sans-serif;
+    color: black;
+    border: 1px solid black;
+    padding: 15px 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+#mensagem {
+    font-size: 20px;
+    margin-top: 20px;
+}
